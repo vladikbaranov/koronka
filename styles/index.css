@@ -28,7 +28,7 @@ body {
   font-family: 'Instrument Serif', serif;
   font-weight: 700;
   font-size: 64px;
-  line-height: 75px;
+  line-height: 68px;
   text-align: center;
   position: relative;
   width: 80%;
@@ -39,7 +39,7 @@ body {
   position: absolute;
   width: 96%;
   height: 5px;
-  top: 108%;
+  top: 112%;
   left: 2%;
   bottom: 100px;
   background-color: #0d018b;
